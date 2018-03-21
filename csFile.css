@@ -1,0 +1,107 @@
+body{
+  background-color:midnightblue;
+}
+
+
+.cl1{
+  color:white;
+
+}
+
+
+.imgS{
+  background-image:url('1.jpg');
+  background-size:cover;
+  background-attachment:fixed;
+  border:2px solid midnightblue;
+  border-radius:5px;
+}
+
+.con1{
+  background-image:url('1.jpg');
+  background-size:cover;
+  border-radius:5px;
+}
+
+@media only screen and (max-width:1400px) and (min-width:1200px)
+{
+  .cls1{
+        height:100px;
+  }
+}
+
+
+
+.table1{
+  padding-top:5px;
+}
+
+
+/*
+@media only screen and (max-width:1400px) and (min-width:1200px)
+{
+  #span23{
+    margin-left:105px;
+  }
+}
+
+
+@media only screen and (max-width:1200px) and (min-width:992px)
+{
+  #span23{
+     margin-left:105px;
+  }
+}
+
+@media only screen and (max-width:992px) and (min-width:778px)
+{
+  #span23
+  {
+    margin-left:10px;
+  }
+}
+
+
+@media only screen and (max-width:778px) and (min-width:500px)
+{
+  #span23{
+    margin-left:105px;
+  }
+}
+
+@media only screen and (max-width:500px) and (min-width:25px)
+{
+  #span23{
+    margin-left:70px;
+  }
+}
+*/
+
+.cs45{
+  color:white;
+
+}
+
+
+.cs90{
+  font-family:Candara;
+  font-weight:bold;
+  letter-spacing:2px;
+  color:midnightblue;
+}
+
+.cs91{
+  color:black;
+  font-weight:bold;
+  font-size:15px;
+  font-family:Candara;
+}
+
+
+@media only screen and (max-width:455px) and (min-width:0px)
+{
+  .btn43
+  {
+    margin-bottom:10px;
+  }
+}
